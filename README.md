@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnRTitor&show_icons=true&theme=dark&count_private=true)<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnRTitor&theme=dark&layout=compact&langs_count=6&exclude_repo=agile_octopus,agile-octopus-lambda,DynamisBot,fedora-wsl,github-actions-runner-aws,KtLodestone,KtUniversalis,KtXivApi,minecraft-oci,windows-usb-image-sh)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
